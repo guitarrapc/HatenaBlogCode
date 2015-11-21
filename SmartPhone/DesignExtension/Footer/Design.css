@@ -27,3 +27,15 @@
       }
       
 </style>
+
+<style>
+  /*プロフィールの非表示*/
+  .hatena-module-title{display:none;}
+  .profile-wrapper{display:none;}
+
+  /*↑はてなブログを始めようの非表示*/
+  .footer-action-wrapper{display:none;}
+
+  /*↑はてなブログ開発ブログ等のリンクの非表示*/
+  .touch-item-list{display:none;}
+</style>
