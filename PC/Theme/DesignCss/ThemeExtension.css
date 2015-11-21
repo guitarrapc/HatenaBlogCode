@@ -3,9 +3,11 @@
 /* </system> */
 
 #wrapper {
+    /* Move body to left */
     float: left;
 }
 #box2 {
+    /* Move side bar to right */
     float: right;
 }
 
@@ -18,18 +20,27 @@
 
 /* font adjustment */
 #blog-title {
+    /* Blog Title */
     font-family: 'Kaushan Script', cursive; /* Google Web Font */
 }
 
 #blog-description {
+    /* Blog Description */
     font-family: 'Merienda One', cursive; /* Google Web Font */
 }
 
 body {
+    /* body全体 */
     font-family: Avenir, 'Helvetica neue', "游ゴシック", "YuGothic", "Yu Gothic", 'ヒラギノ角ゴ ProN W3', "Hiragino Kaku Gothic ProN", "Meiryo", Helvetica, Arial, sans-serif;
 }
 
+.entry-categories {
+    /* エントリカテゴリ */
+    font-weight: bold;
+}
+
 .entry-content {
+    /* エントリ本文 */
     font-size: 95%; /* デフォルトは95% */
     line-height: 1.8; /* デフォルトは1.9 */
 }
