@@ -1,0 +1,14 @@
+/* <system section="theme" selected="11696248318753787764"> */
+@import url("http://hatenablog.com/theme/11696248318753787764.css");
+/* </system> */
+
+#wrapper {
+    float: left;
+}
+#box2 {
+    float: right;
+}
+
+body {
+    font-family: Meiryo,sans-serif;
+}
