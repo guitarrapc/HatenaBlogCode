@@ -17,3 +17,39 @@ body {
     font-size: 98%; /* デフォルトは95% */
     line-height: 1.8; /* デフォルトは1.9 */
 }
+
+/* コンテンツ幅の拡張 */
+#content, .breadcrumb {
+	width: 65%; /* 80%〜95%の範囲を推奨 */
+}
+
+#content, #blog-title, .breadcrumb  {
+	min-width: 800px;
+}
+
+.header-image-enable #blog-title-inner {
+	background: no-repeat center;
+	background-size: cover;
+}
+
+#main {
+	margin-right: 300px;
+}
+
+.entry-content img, .entry-content iframe, .entry-content embed { 
+	max-width: 100%;
+}
+
+#box2 {
+	margin-left: -300px;
+	float: right;
+}
+
+.page-entry .pager-next a,.page-entry .pager-prev a, .page-archive .pager-next a, .page-archive .pager-prev a {
+	width: 48%;
+}
+
+.page-index .pager-next a , .page-search .pager-next a, .pager, #wrapper  {
+	width: 100%;
+}
+/* ここまで */
