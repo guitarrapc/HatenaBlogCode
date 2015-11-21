@@ -9,6 +9,13 @@
     float: right;
 }
 
+/* high-light date time string */
+.date time{
+  color: white; /*日付の文字色*/
+  background: #444B99;/*日付の背景色*/
+  padding: 0px 10px;/*日付の文字まわりのスペース*/
+}
+
 /* font adjustment */
 #blog-title {
     font-family: 'Kaushan Script', cursive; /* Google Web Font */
