@@ -9,6 +9,11 @@
     float: right;
 }
 
+/* font adjustment */
+#blog-title h1{
+    font-family: 'Kaushan Script', cursive; /* Google Web Font */
+}
+
 body {
     font-family: Avenir, 'Helvetica neue', "游ゴシック", "YuGothic", "Yu Gothic", 'ヒラギノ角ゴ ProN W3', "Hiragino Kaku Gothic ProN", "Meiryo", Helvetica, Arial, sans-serif;
 }
