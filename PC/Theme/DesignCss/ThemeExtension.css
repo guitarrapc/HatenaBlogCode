@@ -12,3 +12,8 @@
 body {
     font-family: Avenir, 'Helvetica neue', "游ゴシック", "YuGothic", "Yu Gothic", 'ヒラギノ角ゴ ProN W3', "Hiragino Kaku Gothic ProN", "Meiryo", Helvetica, Arial, sans-serif;
 }
+
+.entry-content {
+    font-size: 98%; /* デフォルトは95% */
+    line-height: 1.8; /* デフォルトは1.9 */
+}
