@@ -10,8 +10,12 @@
 }
 
 /* font adjustment */
-#blog-title h1{
+#blog-title {
     font-family: 'Kaushan Script', cursive; /* Google Web Font */
+}
+
+#blog-description {
+    font-family: 'Merienda One', cursive; /* Google Web Font */
 }
 
 body {
