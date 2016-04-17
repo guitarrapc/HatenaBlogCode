@@ -47,7 +47,7 @@ body {
 
 /* コンテンツ幅の拡張 */
 #content, .breadcrumb {
-	width: 55%; /* 80%〜95%の範囲を推奨 */
+	width: 75%; /* 80%〜95%の範囲を推奨 */
 }
 
 #content, #blog-title, .breadcrumb  {
