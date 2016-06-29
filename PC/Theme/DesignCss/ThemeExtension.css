@@ -31,7 +31,8 @@
 
 body {
     /* body全体 */
-    font-family: Avenir, 'Helvetica neue', "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "游ゴシック", "Yu Gothic", Helvetica, Osaka, Arial, sans-serif;
+    font-family: "Hiragino Maru Gothic W4 JIS2004", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
 }
 
 .entry-categories {
