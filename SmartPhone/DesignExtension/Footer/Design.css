@@ -1,9 +1,9 @@
 <style type="text/css">
-  body {font-family:"Avenir Next", sans-serif;}
+  body {font-family: "Hiragino Maru Gothic W4 JIS2004", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Helvetica, Arial, sans-serif;}
 </style>
 
 <style type="text/css">  
-.entry-content h4 { color: rgb(59, 66, 126);/*文字色*/
+.entry-content h4 { color: #546E7A;/*文字色*/
                     background: rgb(243, 242, 252); /*背景色*/
                     padding: 10px 10px; /*見出しまわりのスペース 上下、左右*/
                     border-left: 9px solid rgb(97, 101, 134); /*見出し左の線*/}
