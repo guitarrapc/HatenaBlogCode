@@ -1,6 +1,8 @@
-/* <system section="theme" selected="11696248318753787764"> */
-@import url("http://hatenablog.com/theme/11696248318753787764.css");
+/* <system section="theme" selected="6653812171397613909"> */
+@import url("http://hatenablog.com/theme/6653812171397613909.css");
 /* </system> */
+
+/* ---- CSS Hack End Begin ---- */
 
 /* high-light date time string */
 .entry-date time{
@@ -10,7 +12,7 @@
 }
 
 /* font adjustment */
-#blog-title {
+#title {
     /* Blog Title */
     font-family: 'Kaushan Script', cursive; /* Google Web Font */
 }
@@ -20,61 +22,33 @@
     font-family: 'Merienda One', cursive; /* Google Web Font */
 }
 
-body {
-    /* body全体 */
-    font-family: "Hiragino Maru Gothic W4 JIS2004", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 500;
-}
-
-.entry-categories {
+.entry-categories .categories {
     /* エントリカテゴリ */
     font-weight: bold;
 }
 
 .entry-content {
     /* エントリ本文 */
-    font-size: 95%; /* デフォルトは95% */
+    font-size: 98%; /* デフォルトは100% */
     line-height: 1.8; /* デフォルトは1.9 */
     color: #546E7A; /*dark gray にして文字表現を抑える*/
 }
 
-/* コンテンツ幅の拡張 */
-#content, .breadcrumb {
-	width: 75%; /* 80%〜95%の範囲を推奨 */
+body {
+    /* body全体 */
+    font-family: "Hiragino Maru Gothic W4 JIS2004", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
 }
 
-#content, #blog-title, .breadcrumb  {
-	min-width: 800px;
+strong {
+    /* strong全体 */
+    background: #e8fffb;
 }
 
-.header-image-enable #blog-title-inner {
-	background: no-repeat center;
-	background-size: cover;
-}
+/* ---- CSS Hack End ---- */
 
-#main {
-	margin-right: 300px;
-}
+/* ---- Google Custom Search CSS Begin ---- */
 
-.entry-content img, .entry-content iframe, .entry-content embed { 
-	max-width: 100%;
-}
-
-#box2 {
-	margin-left: -300px;
-	float: right;
-}
-
-.page-entry .pager-next a,.page-entry .pager-prev a, .page-archive .pager-next a, .page-archive .pager-prev a {
-	width: 48%;
-}
-
-.page-index .pager-next a , .page-search .pager-next a, .pager, #wrapper  {
-	width: 100%;
-}
-/* ここまで */
-
-/* Google Custom Search CSS */
 .gsc-control-cse,
 .gsc-control-searchbox-only {
   display: block !important;
@@ -154,3 +128,5 @@ body {
   background-color: #999999 !important;
   border: 1px solid #999999 !important;
 }
+
+/* ---- Google Custom Search CSS End ---- */
