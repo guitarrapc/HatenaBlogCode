@@ -1,5 +1,5 @@
-/* <system section="theme" selected="6653812171397613909"> */
-@import url("http://hatenablog.com/theme/6653812171397613909.css");
+/* <system section="theme" selected="10328749687197818725"> */
+@import url("http://hatenablog.com/theme/10328749687197818725.css");
 /* </system> */
 
 /* ---- CSS Hack End Begin ---- */
@@ -22,14 +22,8 @@
     font-family: 'Merienda One', cursive; /* Google Web Font */
 }
 
-.entry-categories .categories {
-    /* エントリカテゴリ */
-    font-weight: bold;
-}
-
 .entry-content {
     /* エントリ本文 */
-    font-size: 98%; /* デフォルトは100% */
     line-height: 1.8; /* デフォルトは1.9 */
     color: #546E7A; /*dark gray にして文字表現を抑える*/
 }
@@ -39,10 +33,3 @@ body {
     font-family: "Hiragino Maru Gothic W4 JIS2004", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 500;
 }
-
-strong {
-    /* strong全体 */
-    background: #e8fffb;
-}
-
-/* ---- CSS Hack End ---- */
