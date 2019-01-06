@@ -1,11 +1,8 @@
 /* <system section="theme" selected="10328749687197818725"> */
-@import url("http://hatenablog.com/theme/10328749687197818725.css");
+@import url("https://hatenablog.com/theme/10328749687197818725.css");
 /* </system> */
 
-/* ---- CSS Hack End Begin ---- */
-
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
-@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
+/* ---- CSS Hack Begin ---- */
 
 /* high-light date time string */
 .entry-date time{
@@ -22,7 +19,7 @@
 
 #blog-description {
     /* Blog Description */
-    font-family: 'Merienda One', cursive; /* Google Web Font */
+    font-family: 'Merienda', cursive; /* Google Web Font */
 }
 
 .entry-content {
@@ -32,6 +29,8 @@
 
 body {
     /* body全体 */
-    font-family: Lato, "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-family: "Lato", "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", "YuGothic", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
     font-weight: 500;
 }
+
+/* ---- CSS Hack End ---- */

@@ -1,4 +1,5 @@
-/* Google Custom Search CSS */
+/* ---- Google Custom Search CSS Begin ---- */
+
 .gsc-control-cse,
 .gsc-control-searchbox-only {
   display: block !important;
@@ -78,3 +79,5 @@
   background-color: #999999 !important;
   border: 1px solid #999999 !important;
 }
+
+/* ---- Google Custom Search CSS End ---- */
