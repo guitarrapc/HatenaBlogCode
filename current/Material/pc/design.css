@@ -11,7 +11,7 @@
     font-family: 'Kaushan Script', cursive; /* Google Web Font */
 }
 
-html, body {
+html, body input {
 /* body全体 */
     font-family: "Lato", "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", "YuGothic", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
     font-weight: 500;
@@ -127,4 +127,5 @@ a.entry-see-more {
   background-color: #999999 !important;
   border: 1px solid #999999 !important;
 }
+
 /* ---- Google Custom Search CSS End ---- */
