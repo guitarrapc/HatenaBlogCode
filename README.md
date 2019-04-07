@@ -4,20 +4,20 @@ key | value
 ---- | ----
 Publish via | Hatena Blog
 URL | https://tech.guitarracpc.com
-THEME | [510](http://blog.hatena.ne.jp/-/store/theme/10328749687197818725)
+THEME | [Material](http://blog.hatena.ne.jp/-/store/theme/8454420450093337097)
 
 ## Sidebar
 
 Order by followings.
 
+* Profile
 * Search
 * Links
-* Profile
+* Latest Articles
+* Monthly Archives
+* Favorite Articles
 * TagCloud
 * Google Adsence
-* Favorite Articles
-* Monthly Archives
-* Latest Articles
 
 ## Coockie Policy
 
