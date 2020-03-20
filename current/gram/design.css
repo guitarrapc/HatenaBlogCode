@@ -1,0 +1,13 @@
+/* <system section="theme" selected="17680117127077295762"> */
+@import url("https://blog.hatena.ne.jp/-/theme/17680117127077295762.css");
+/* </system> */
+
+#title a {
+    font-family: 'Kaushan Script', cursive; /* Google Web Font */
+    font-size: 0.7em;
+}
+
+html, body input, div .entry-content, #blog-description {
+/* body全体 */
+    font-family: "Lato", "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", "YuGothic", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
+}
