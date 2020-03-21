@@ -2,6 +2,9 @@
 @import url("https://blog.hatena.ne.jp/-/theme/17680117127077295762.css");
 /* </system> */
 
+/* Responsive: yes */
+
+/* ---- CSS Hack Begin ---- */
 #title a {
     font-family: 'Kaushan Script', cursive; /* Google Web Font */
     font-size: 0.7em;
@@ -10,4 +13,33 @@
 html, body input, div .entry-content, #blog-description {
 /* body全体 */
     font-family: "Lato", "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", "YuGothic", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
+}
+
+/* ---- CSS Hack End ---- */
+
+/* go top */
+
+#page-top {
+  display:none;
+  position:fixed;
+  right:10px;
+  bottom:20px;
+  margin: 0;
+  padding: 0;
+  text-align:center;
+}
+#move-page-top{
+  color:rgba(0,0,0,0.4);
+  text-decoration:none;
+  display:block;
+  cursor:pointer;
+}
+#move-page-top:hover{
+  color:rgba(0,0,0,0.6);
+}
+@media only screen and (min-width: 400px){
+  #page-top{
+    right:5%;
+    bottom:5%;
+  }
 }
