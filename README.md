@@ -1,9 +1,13 @@
 ---
-Blog: Hatena Blog
-Date: 2020-03-22
-Url: https://tech.guitarracpc.com
-Theme: [gram](https://blog.hatena.ne.jp/-/store/theme/17680117127077295762)
+Title: Hatena Blog
+date: 2020-03-22
+url: https://tech.guitarracpc.com
+theme: https://blog.hatena.ne.jp/-/store/theme/17680117127077295762
 ---
+## HatenaBlogCodeLab
+
+* current theme: gram
+
 ## Sidebar
 
 Order by followings.
