@@ -1,22 +1,20 @@
-## Summary
-
-key | value
----- | ----
-Publish via | Hatena Blog
-URL | https://tech.guitarracpc.com
-THEME | [Material](http://blog.hatena.ne.jp/-/store/theme/8454420450093337097)
-
+---
+Blog: Hatena Blog
+Date: 2020-03-22
+Url: https://tech.guitarracpc.com
+Theme: [gram](https://blog.hatena.ne.jp/-/store/theme/17680117127077295762)
+---
 ## Sidebar
 
 Order by followings.
 
-* Profile
 * Search
+* TagCloud
 * Links
 * Latest Articles
 * Monthly Archives
 * Favorite Articles
-* TagCloud
+* Profile
 * Google Adsence
 
 ## Coockie Policy
